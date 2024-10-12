@@ -38,6 +38,7 @@ export default function Home() {
 
   return (
     <div className={styles.page}>
+      <header>lena</header>
       <div className={styles.header}>Today&apos;s quote</div>
       <div className={styles.container}>
         <div className={styles.imageBox}>
